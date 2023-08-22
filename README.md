@@ -25,9 +25,7 @@ https://kapil319.github.io/Console-Finances/
 
 Create GitHub respository 
 Open starter code in VS Code
-Use CSS Flex and CSS variables to format portfolio
-Commit and push all refactored folder contents into github respository for review
-Open index.js file and include arrays for months / finances 
+Use index.js to provide financial analysis of the dataset provided
 
 
 ## Credits
@@ -36,6 +34,8 @@ Andrew Hoang,
 Jamie Lujan,
 Nazeh Abel
 
+reference:
+https://zoom.us/rec/play/ldH3sFzLh9tJ1jLiegeY0CvHbpivIQrvIlTuj4f17K4Q8LfenGRHMw434yRs-W_pMhiwY-UPkAnAtfbv.S_9wdx-JqpR_nXCp?continueMode=true
 
 ## License
 
